@@ -7,7 +7,8 @@
 <img src="https://github.com/user-attachments/assets/f9caa905-96c4-4854-868a-3aa5bcf8c5aa" alt="Description" width="400">
 
 #### 3. Detected Pupil Location: The output image showing the detected pupil marked with a circle.
-![output_image](https://github.com/user-attachments/assets/713ac1ad-1628-4937-93d7-d16abf43ea0b)
+<img src="https://github.com/user-attachments/assets/713ac1ad-1628-4937-93d7-d16abf43ea0b" alt="Description" width="400">
 
 #### 4. Contours Image: An image displaying all detected contours with their indices.
-![contours_image](https://github.com/user-attachments/assets/16f2261d-820c-4872-926a-55ff70ed4642)
+<img src="https://github.com/user-attachments/assets/16f2261d-820c-4872-926a-55ff70ed4642" alt="Description" width="400">
+
