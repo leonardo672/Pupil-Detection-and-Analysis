@@ -1,7 +1,7 @@
 ### Pupil Detection and Analysis - Process Descriptions
 --------------------------------------------------
 #### 1. Original Eye Image: The input image of the eye in grayscale.
-<img src="https://github.com/user-attachments/assets/a827e92e-3120-4e53-8385-2b399c1f2ddd" alt="Description" width="200">
+<img src="https://github.com/user-attachments/assets/a827e92e-3120-4e53-8385-2b399c1f2ddd" alt="Description" width="400">
 
 
 #### 2. Processed Iris Frame: The image after applying bilateral filtering, erosion, and thresholding to isolate the iris.
